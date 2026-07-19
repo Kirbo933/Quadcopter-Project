@@ -1,0 +1,25 @@
+# Arduino / PlatformIO build output
+*.hex
+*.elf
+*.bin
+*.o
+*.d
+build/
+.pio/
+.pioenvs/
+.piolibs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
