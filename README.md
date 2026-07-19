@@ -42,6 +42,8 @@ Full parts list is in `docs/`. The short version: a 5" quad on a SpeedyBee
 F405 stack, four 2207 motors, ExpressLRS radio, and the sensor payload
 (BME280 barometer, VL53L1X laser rangefinder, BN-880 GPS).
 
+[Full parts list](docs/parts.md)
+
 ## Results
 
 Coming once it flies. This is where the sensor comparison plots, the FEA on
